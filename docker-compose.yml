@@ -1,0 +1,41 @@
+version: "3.8"
+
+services:
+  karaf:
+    image: apache/karaf:4.2.9
+    container_name: karaf
+    hostname: karaf
+    environment:
+      - TZ=UTC
+    volumes:
+      - type: bind
+        source: ./org.ops4j.pax.url.mvn.cfg 
+        target: /opt/apache-karaf/etc/org.ops4j.pax.url.mvn.cfg 
+      - type: bind
+        source: ~/.m2
+        target: /opt/karaf/.m2
+    ports:
+      - "8181:8181"
+      - "8101:8101"
+      - "5101:5000"
+    command: tail -f /dev/null
+
+  onos:
+    image: onosproject/onos:2.7.0
+    container_name: onos
+    hostname: onos
+    environment:
+      - TZ=UTC
+    volumes:
+      - type: bind
+        source: ./org.ops4j.pax.url.mvn.cfg
+        target: /root/onos/apache-karaf-4.2.9/etc/org.ops4j.pax.url.mvn.cfg
+      - type: bind
+        source: ~/.m2
+        target: /opt/karaf/.m2
+    ports:
+      - "8182:8181"
+      - "8102:8101"
+      - "5102:5000"
+    command: tail -f /dev/null
+
