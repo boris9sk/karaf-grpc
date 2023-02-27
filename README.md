@@ -145,10 +145,9 @@ Hit '<tab>' for a list of available commands
 and '[cmd] --help' for help on a specific command.
 Hit '<ctrl-d>' or type 'logout' to exit ONOS session.
 
-onos@root > repo-add mvn:com.stackleader/com.stackleader.training.grpc.helloworld.feature/0.0.1/xml/features                                                                                                                                                                                                                                   14:13:48
+onos@root > repo-add mvn:com.stackleader/com.stackleader.training.grpc.helloworld.feature/0.0.1/xml/features                                                                                                                                                                                                                                   
 Adding feature url mvn:com.stackleader/com.stackleader.training.grpc.helloworld.feature/0.0.1/xml/features
-onos@root > feature:install com.stackleader.training.grpc.helloworld.feature                                                                                                                                                                                                                                                                   14:14:02
-onos@root >       
+onos@root > feature:install com.stackleader.training.grpc.helloworld.feature                                                                                                                                                                                                                                                                   
 ```
 - tail the karaf log of the karaf container and verify gRPC server was started
 ```shell
