@@ -1,0 +1,240 @@
+
+
+ aopalliance version 1.0 repackaged as a module                                                                                          2.5.0.b42                Active
+ Apache Aries JMX API                                                                                                                    1.1.5                    Active
+ Apache Aries JMX Core                                                                                                                   1.1.8                    Active
+ Apache Aries SPI Fly Dynamic Weaving Bundle                                                                                             1.2.3                    Active
+ Apache Aries Util                                                                                                                       1.1.3                    Active
+ Apache Aries Whiteboard support for JMX DynamicMBean services                                                                           1.2.0                    Active
+ Apache Commons BeanUtils                                                                                                                1.9.3                    Active
+ Apache Commons Codec                                                                                                                    1.10.0                   Active
+ Apache Commons Collections                                                                                                              3.2.2                    Active
+ Apache Commons Configuration                                                                                                            1.10.0                   Active
+ Apache Commons IO                                                                                                                       2.6.0                    Active
+ Apache Commons Lang                                                                                                                     3.7.0                    Active
+ Apache Commons Math                                                                                                                     3.6.1                    Active
+ Apache Commons Text                                                                                                                     1.3.0                    Active
+ Apache Felix Configuration Admin Service                                                                                                1.9.16                   Active
+ Apache Felix Coordinator Service                                                                                                        1.0.2                    Active
+ Apache Felix Declarative Services                                                                                                       2.1.20                   Active
+ Apache Felix File Install                                                                                                               3.6.6                    Active
+ Apache Felix Inventory                                                                                                                  1.0.6                    Active
+ Apache Felix Metatype Service                                                                                                           1.2.2                    Active
+ Apache Felix Web Console Event Plugin                                                                                                   1.1.8                    Active
+ Apache Felix Web Console Memory Usage Plugin                                                                                            1.0.10                   Active
+ Apache Felix Web Console Service Component Runtime/Declarative Services Plugin                                                          2.1.0                    Active
+ Apache Karaf :: Bundle :: Core                                                                                                          4.2.9                    Active
+ Apache Karaf :: ConfigAdmin :: Core                                                                                                     4.2.9                    Active
+ Apache Karaf :: Deployer :: Features                                                                                                    4.2.9                    Active
+ Apache Karaf :: Deployer :: Karaf Archive (.kar)                                                                                        4.2.9                    Active
+ Apache Karaf :: Deployer :: Wrap Non OSGi Jar                                                                                           4.2.9                    Active
+ Apache Karaf :: Diagnostic :: Core                                                                                                      4.2.9                    Active
+ Apache Karaf :: Features :: Command                                                                                                     4.2.9                    Active
+ Apache Karaf :: Features :: Core                                                                                                        4.2.9                    Active
+ Apache Karaf :: Features :: Extension, Hosts: 0                                                                                         4.2.9                    Resolved
+ Apache Karaf :: HTTP :: Core                                                                                                            4.2.9                    Active
+ Apache Karaf :: Instance :: Core                                                                                                        4.2.9                    Active
+ Apache Karaf :: JAAS :: Command                                                                                                         4.2.9                    Active
+ Apache Karaf :: JAAS :: Config                                                                                                          4.2.9                    Active
+ Apache Karaf :: JAAS :: Modules                                                                                                         4.2.9                    Active
+ Apache Karaf :: KAR :: Core                                                                                                             4.2.9                    Active
+ Apache Karaf :: Log :: Core                                                                                                             4.2.9                    Active
+ Apache Karaf :: Management                                                                                                              4.2.9                    Active
+ Apache Karaf :: OSGi Services :: Event                                                                                                  4.2.9                    Active
+ Apache Karaf :: OSGi Services :: EventAdmin                                                                                             4.2.9                    Active
+ Apache Karaf :: Package :: Core                                                                                                         4.2.9                    Active
+ Apache Karaf :: SCR :: Bundle State                                                                                                     4.2.9                    Active
+ Apache Karaf :: SCR :: Management MBeans                                                                                                4.2.9                    Active
+ Apache Karaf :: Service :: Core                                                                                                         4.2.9                    Active
+ Apache Karaf :: Shell :: Core                                                                                                           4.2.9                    Active
+ Apache Karaf :: Shell :: SSH                                                                                                            4.2.9                    Active
+ Apache Karaf :: Shell :: Various Commands                                                                                               4.2.9                    Active
+ Apache Karaf :: System :: Core                                                                                                          4.2.9                    Active
+ Apache Karaf :: Web Console :: Console                                                                                                  4.2.9                    Active
+ Apache Karaf :: Web Console :: Features Plugin                                                                                          4.2.9                    Active
+ Apache Karaf :: Web Console :: Gogo Plugin                                                                                              4.2.9                    Active
+ Apache Karaf :: Web Console :: HTTP Plugin                                                                                              4.2.9                    Active
+ Apache Karaf :: Web Console :: Instance Plugin                                                                                          4.2.9                    Active
+ Apache Karaf :: Web :: Core                                                                                                             4.2.9                    Active
+ Apache Mina SSHD :: Core                                                                                                                1.7.0                    Active
+ Apache ServiceMix :: Bundles :: kafka-clients                                                                                           1.1.1.1                  Active
+ Apache ServiceMix :: Bundles :: not-yet-commons-ssl                                                                                     0.3.11.1                 Active
+ Apache ServiceMix :: Specs :: Activation API 1.4                                                                                        2.9.0                    Active
+ Apache XBean :: Classpath Resource Finder                                                                                               4.17.0                   Active
+ Apache XBean OSGI Bundle Utilities                                                                                                      4.17.0                   Active
+ ASM                                                                                                                                     5.2                      Active
+ Atomix                                                                                                                                  3.1.9                    Active
+ Atomix Cluster                                                                                                                          3.1.9                    Active
+ Atomix Primitive API                                                                                                                    3.1.9                    Active
+ Atomix Protocols :: Primary Backup Protocol                                                                                             3.1.9                    Active
+ Atomix Protocols :: Raft                                                                                                                3.1.9                    Active
+ Atomix Storage                                                                                                                          3.1.9                    Active
+ Atomix Utilities                                                                                                                        3.1.9                    Active
+ bcpkix                                                                                                                                  1.66                     Active
+ bcprov                                                                                                                                  1.66                     Active
+ Bean Validation API                                                                                                                     2.0.1.Final              Active
+ ClassGraph                                                                                                                              4.2.3                    Active
+ Commons JXPath                                                                                                                          1.3                      Active
+ Commons Lang                                                                                                                            2.6                      Active
+ Commons Pool                                                                                                                            1.6.0                    Active
+ com.stackleader.training.grpc.helloworld.api                                                                                            0.0.1                    Active
+ com.stackleader.training.grpc.helloworld.client                                                                                         0.0.1                    Waiting
+ com.stackleader.training.grpc.helloworld.server                                                                                         0.0.1                    Active
+ Concurrent-Trees                                                                                                                        2.6.1                    Active
+ config                                                                                                                                  1.3.2                    Active
+ Eclipse Compiler for Java(TM)                                                                                                           3.11.1.v20150902-1521    Active
+ Expression Language 3.0 API                                                                                                             3.0.0                    Active
+ geronimo-jta_1.1_spec                                                                                                                   1.1.1                    Active
+ Gson                                                                                                                                    2.3                      Active
+ Guava: Google Core Libraries for Java                                                                                                   18.0.0                   Active
+ Guava: Google Core Libraries for Java                                                                                                   19.0.0                   Active
+ Guava: Google Core Libraries for Java                                                                                                   22.0.0                   Active
+ HK2 API module                                                                                                                          2.5.0.b42                Active
+ HK2 Implementation Utilities                                                                                                            2.5.0.b42                Active
+ Hyperic Sigar OSGi bundle                                                                                                               1.6.5.01                 Active
+ Jackson-annotations                                                                                                                     2.11.0                   Active
+ Jackson-core                                                                                                                            2.11.0                   Active
+ Jackson-core                                                                                                                            2.1.3                    Active
+ jackson-databind                                                                                                                        2.11.0                   Active
+ Jackson Integration for Metrics                                                                                                         3.2.2                    Active
+ jansi                                                                                                                                   1.18.0                   Active
+ Java Authentication SPI for Containers                                                                                                  1.1                      Active
+ Java Servlet API                                                                                                                        3.1.0                    Active
+ Javassist                                                                                                                               3.22.0.GA                Active
+ javax.annotation API                                                                                                                    1.3                      Active
+ javax.inject:1 as OSGi bundle                                                                                                           2.5.0.b42                Active
+ javax.ws.rs-api                                                                                                                         2.1                      Active
+ jaxb-api                                                                                                                                2.3.1                    Active
+ jdom.jdom                                                                                                                               1.0                      Active
+ jersey-container-servlet                                                                                                                2.27.0                   Active
+ jersey-container-servlet-core                                                                                                           2.27.0                   Active
+ jersey-core-client                                                                                                                      2.27.0                   Active
+ jersey-core-common                                                                                                                      2.27.0                   Active
+ jersey-core-server                                                                                                                      2.27.0                   Active
+ jersey-inject-hk2                                                                                                                       2.27.0                   Active
+ jersey-media-multipart                                                                                                                  2.27.0                   Active
+ Jetty :: Asynchronous HTTP Client                                                                                                       9.4.28.v20200408         Active
+ Jetty :: Continuation                                                                                                                   9.4.28.v20200408         Active
+ Jetty :: Deployers                                                                                                                      9.4.28.v20200408         Active
+ Jetty :: Http Utility                                                                                                                   9.4.28.v20200408         Active
+ Jetty :: IO Utility                                                                                                                     9.4.28.v20200408         Active
+ Jetty :: JAAS                                                                                                                           9.4.28.v20200408         Active
+ Jetty :: JASPI Security                                                                                                                 9.4.28.v20200408         Active
+ Jetty :: JMX Management                                                                                                                 9.4.28.v20200408         Active
+ Jetty :: JNDI Naming                                                                                                                    9.4.28.v20200408         Active
+ Jetty :: Plus                                                                                                                           9.4.28.v20200408         Active
+ Jetty :: Proxy                                                                                                                          9.4.28.v20200408         Active
+ Jetty :: Rewrite Handler                                                                                                                9.4.28.v20200408         Active
+ Jetty :: Security                                                                                                                       9.4.28.v20200408         Active
+ Jetty :: Server Core                                                                                                                    9.4.28.v20200408         Active
+ Jetty :: Servlet Handling                                                                                                               9.4.28.v20200408         Active
+ Jetty :: Utilities                                                                                                                      9.4.28.v20200408         Active
+ Jetty :: Utilities :: Ajax(JSON)                                                                                                        9.4.28.v20200408         Active
+ Jetty :: Utility Servlets and Filters                                                                                                   9.4.28.v20200408         Active
+ Jetty :: Webapp Application Support                                                                                                     9.4.28.v20200408         Active
+ Jetty :: Websocket :: API                                                                                                               9.4.28.v20200408         Active
+ Jetty :: Websocket :: Client                                                                                                            9.4.28.v20200408         Active
+ Jetty :: Websocket :: Common                                                                                                            9.4.28.v20200408         Active
+ Jetty :: Websocket :: javax.websocket :: Client Implementation                                                                          9.4.28.v20200408         Active
+ Jetty :: Websocket :: javax.websocket.server :: Server Implementation                                                                   9.4.28.v20200408         Active
+ Jetty :: Websocket :: Server                                                                                                            9.4.28.v20200408         Active
+ Jetty :: Websocket :: Servlet Interface                                                                                                 9.4.28.v20200408         Active
+ Jetty :: XML utilities                                                                                                                  9.4.28.v20200408         Active
+ JLine Builtins                                                                                                                          3.14.1                   Active
+ JLine JANSI Terminal, Hosts: 93                                                                                                         3.14.1                   Resolved
+ JLine Reader                                                                                                                            3.14.1                   Active
+ JLine Terminal, Fragments: 94                                                                                                           3.14.1                   Active
+ Joda-Time                                                                                                                               2.9.3                    Active
+ Kryo                                                                                                                                    4.0.1                    Active
+ mapdb                                                                                                                                   1.0.9                    Active
+ Metrics Core                                                                                                                            3.2.2                    Active
+ MIME streaming extension                                                                                                                1.9.6                    Active
+ minimal-json                                                                                                                            0.9.4                    Active
+ MinLog                                                                                                                                  1.3.0                    Active
+ Name                                                                                                                                    Version                  State
+ Netty                                                                                                                                   3.10.5.Final             Active
+ Netty/Buffer                                                                                                                            4.1.0.CR7                Active
+ Netty/Buffer                                                                                                                            4.1.35.Final             Active
+ Netty/Codec                                                                                                                             4.1.0.CR7                Active
+ Netty/Codec                                                                                                                             4.1.35.Final             Active
+ Netty/Codec/HTTP2                                                                                                                       4.1.0.CR7                Active
+ Netty/Codec/HTTP2                                                                                                                       4.1.35.Final             Active
+ Netty/Codec/HTTP                                                                                                                        4.1.0.CR7                Active
+ Netty/Codec/HTTP                                                                                                                        4.1.35.Final             Active
+ Netty/Codec/Socks                                                                                                                       4.1.35.Final             Active
+ Netty/Common                                                                                                                            4.1.0.CR7                Active
+ Netty/Common                                                                                                                            4.1.35.Final             Active
+ Netty/Handler                                                                                                                           4.1.0.CR7                Active
+ Netty/Handler                                                                                                                           4.1.35.Final             Active
+ Netty/Handler/Proxy                                                                                                                     4.1.35.Final             Active
+ Netty/Resolver                                                                                                                          4.1.0.CR7                Active
+ Netty/Resolver                                                                                                                          4.1.35.Final             Active
+ Netty/TomcatNative [BoringSSL - Static]                                                                                                 2.0.25.Final             Active
+ Netty/Transport                                                                                                                         4.1.0.CR7                Active
+ Netty/Transport                                                                                                                         4.1.35.Final             Active
+ Netty/Transport/Native/Epoll                                                                                                            4.1.35.Final             Active
+ Netty/Transport/Native/Unix/Common                                                                                                      4.1.35.Final             Active
+ Objenesis                                                                                                                               2.6.0                    Active
+ onlab-misc                                                                                                                              2.7.0                    Active
+ onlab-osgi                                                                                                                              2.7.0                    Active
+ onlab-rest                                                                                                                              2.7.0                    Active
+ onos-api                                                                                                                                2.7.0                    Active
+ onos-cli                                                                                                                                2.7.0                    Active
+ onos-core-common                                                                                                                        2.7.0                    Active
+ onos-core-dist                                                                                                                          2.7.0                    Waiting
+ onos-core-net                                                                                                                           2.7.0                    Waiting
+ onos-core-persistence                                                                                                                   2.7.0                    Active
+ onos-core-primitives                                                                                                                    2.7.0                    Waiting
+ onos-core-serializers                                                                                                                   2.7.0                    Active
+ onos-drivers-default                                                                                                                    2.7.0                    Active
+ _onos-gui2-base-jar                                                                                                                     2.7.0                    Waiting
+ onos-log4j2-extra, Hosts: 6                                                                                                             2.7.0                    Resolved
+ onos-protocols-openflow-api                                                                                                             2.7.0                    Active
+ onos-rest                                                                                                                               2.7.0                    Active
+ OpenFlowJ-Loxi                                                                                                                          3.2.1.onos               Active
+ OPS4J Pax Logging - API                                                                                                                 1.11.6                   Active
+ OPS4J Pax Logging - Log4Jv2 implementation, Fragments: 13                                                                               1.11.6                   Active
+ OPS4J Pax Url - mvn:                                                                                                                    2.6.2                    Active
+ OPS4J Pax Url - war:                                                                                                                    2.6.1                    Active
+ OPS4J Pax Url - wrap:                                                                                                                   2.6.2                    Active
+ OPS4J Pax Web - API                                                                                                                     7.2.16                   Active
+ OPS4J Pax Web - Deployment Descriptor Model                                                                                             7.2.16                   Active
+ OPS4J Pax Web - Extender - WAR                                                                                                          7.2.16                   Active
+ OPS4J Pax Web - Extender - Whiteboard                                                                                                   7.2.16                   Active
+ OPS4J Pax Web - FileInstall Deployer                                                                                                    7.2.16                   Active
+ OPS4J Pax Web - Jetty                                                                                                                   7.2.16                   Active
+ OPS4J Pax Web - Jsp Support                                                                                                             7.2.16                   Active
+ OPS4J Pax Web - Runtime                                                                                                                 7.2.16                   Active
+ OPS4J Pax Web - Service SPI                                                                                                             7.2.16                   Active
+ org.objectweb.asm                                                                                                                       8.0.1                    Active
+ org.objectweb.asm.commons                                                                                                               8.0.1                    Active
+ org.objectweb.asm.tree                                                                                                                  8.0.1                    Active
+ org.osgi:org.osgi.util.function                                                                                                         1.1.0.201802012106       Active
+ org.osgi:org.osgi.util.promise                                                                                                          1.1.1.201810101357       Active
+ OSGi resource locator bundle - used by various API providers that rely on META-INF/services mechanism to locate providers.              1.0.1                    Active
+ Protocol Buffer Java API                                                                                                                3.0.0.beta-2             Active
+ Protocol Buffer Java API                                                                                                                3.0.0.beta-2             Active
+ Protocol Buffer JavaNano API                                                                                                            3.0.0.alpha-5            Active
+ ReflectASM                                                                                                                              1.11.7                   Active
+ ServiceLocator Default Implementation                                                                                                   2.5.0.b42                Active
+ System Bundle, Fragments: 1                                                                                                             5.6.12                   Active
+ WebSocket server API                                                                                                                    1.1                      Active
+ wrap_file__home_bpilka_.m2_repository_com_google_auth_google-auth-library-credentials_0.3.0_google-auth-library-credentials-0.3.0.jar   0                        Active
+ wrap_file__home_bpilka_.m2_repository_com_google_auth_google-auth-library-oauth2-http_0.3.0_google-auth-library-oauth2-http-0.3.0.jar   0                        Active
+ wrap_file__home_bpilka_.m2_repository_com_google_code_findbugs_jsr305_3.0.0_jsr305-3.0.0.jar                                            0                        Active
+ wrap_file__home_bpilka_.m2_repository_com_google_http-client_google-http-client_1.19.0_google-http-client-1.19.0.jar                    0                        Active
+ wrap_file__home_bpilka_.m2_repository_com_google_http-client_google-http-client-jackson2_1.19.0_google-http-client-jackson2-1.19.0.jar  0                        Active
+ wrap_file__home_bpilka_.m2_repository_commons-codec_commons-codec_1.3_commons-codec-1.3.jar                                             0                        Active
+ wrap_file__home_bpilka_.m2_repository_commons-logging_commons-logging_1.1.1_commons-logging-1.1.1.jar                                   0                        Active
+ wrap_file__home_bpilka_.m2_repository_com_squareup_okhttp_okhttp_2.5.0_okhttp-2.5.0.jar                                                 0                        Active
+ wrap_file__home_bpilka_.m2_repository_com_squareup_okio_okio_1.6.0_okio-1.6.0.jar                                                       0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-auth_0.14.0_grpc-auth-0.14.0.jar                                                     0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-core_0.14.0_grpc-core-0.14.0.jar                                                     0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-netty_0.14.0_grpc-netty-0.14.0.jar                                                   0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-okhttp_0.14.0_grpc-okhttp-0.14.0.jar                                                 0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-protobuf_0.14.0_grpc-protobuf-0.14.0.jar                                             0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-protobuf-lite_0.14.0_grpc-protobuf-lite-0.14.0.jar                                   0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-protobuf-nano_0.14.0_grpc-protobuf-nano-0.14.0.jar                                   0                        Active
+ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-stub_0.14.0_grpc-stub-0.14.0.jar                                                     0                        Active
+ wrap_file__home_bpilka_.m2_repository_org_apache_httpcomponents_httpclient_4.0.1_httpclient-4.0.1.jar                                   0                        Active
+ wrap_file__home_bpilka_.m2_repository_org_apache_httpcomponents_httpcore_4.0.1_httpcore-4.0.1.jar                                       0                        Active

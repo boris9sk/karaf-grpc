@@ -1,0 +1,240 @@
+ ID │ State    │ Lvl │ Version               │ Name                                                                                                                                                                                                                                                                                           [165/197]
+────┼──────────┼─────┼───────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  0 │ Active   │   0 │ 5.6.12                │ System Bundle, Fragments: 1                                                                                                                                                                                                                                                                             
+  1 │ Resolved │   1 │ 4.2.9                 │ Apache Karaf :: Features :: Extension, Hosts: 0                                                                                                                                                                                                                                                         
+  2 │ Active   │   5 │ 2.6.2                 │ OPS4J Pax Url - mvn:                                                                                                                                                                                                                                                                                    
+  3 │ Active   │   5 │ 4.2.9                 │ Apache Karaf :: OSGi Services :: EventAdmin                                                                                                                                                                                                                                                             
+  4 │ Active   │   5 │ 1.2.2                 │ Apache Felix Metatype Service                                                                                                                                                                                                                                                                           
+  5 │ Active   │   8 │ 1.11.6                │ OPS4J Pax Logging - API                                                                                                                                                                                                                                                                                 
+  6 │ Active   │   8 │ 1.11.6                │ OPS4J Pax Logging - Log4Jv2 implementation, Fragments: 13                                                                                                                                                                                                                                               
+  7 │ Active   │   8 │ 1.18.0                │ jansi                                                                                                                                                                                                                                                                                                   
+  8 │ Active   │   9 │ 1.0.2                 │ Apache Felix Coordinator Service                                                                                                                                                                                                                                                                        
+  9 │ Active   │  10 │ 1.9.16                │ Apache Felix Configuration Admin Service                                                                                                                                                                                                                                                                
+ 10 │ Active   │  11 │ 3.6.6                 │ Apache Felix File Install                                                                                                                                                                                                                                                                               
+ 11 │ Active   │  15 │ 4.2.9                 │ Apache Karaf :: Features :: Core                                                                                                                                                                                                                                                                        
+ 12 │ Active   │  80 │ 1.1.1.1               │ Apache ServiceMix :: Bundles :: kafka-clients                                                                                                                                                                                                                                                           
+ 13 │ Resolved │   7 │ 2.7.0                 │ onos-log4j2-extra, Hosts: 6                                                                                                                                                                                                                                                                             
+ 14 │ Active   │  30 │ 3.0.0                 │ Expression Language 3.0 API                                                                                                                                                                                                                                                                             
+ 15 │ Active   │  30 │ 3.1.0                 │ Java Servlet API                                                                                                                                                                                                                                                                                        
+ 16 │ Active   │  30 │ 1.1                   │ WebSocket server API                                                                                                                                                                                                                                                                                    
+ 17 │ Active   │  30 │ 1.1.5                 │ Apache Aries JMX API                                                                                                                                                                                                                                                                                    
+ 18 │ Active   │  30 │ 1.1.8                 │ Apache Aries JMX Core                                                                                                                                                                                                                                                                                   
+ 19 │ Active   │  30 │ 1.2.0                 │ Apache Aries Whiteboard support for JMX DynamicMBean services                                                                                                                                                                                                                                           
+ 20 │ Active   │  30 │ 1.2.3                 │ Apache Aries SPI Fly Dynamic Weaving Bundle                                                                                                                                                                                                                                                             
+ 21 │ Active   │  20 │ 1.1.3                 │ Apache Aries Util                                                                                                                                                                                                                                                                                       
+ 22 │ Active   │  30 │ 1.0.6                 │ Apache Felix Inventory                                                                                                                                                                                                                                                                                  
+ 23 │ Active   │  30 │ 2.1.20                │ Apache Felix Declarative Services                                                                                                                                                                                                                                                                       
+ 24 │ Active   │  30 │ 2.1.0                 │ Apache Felix Web Console Service Component Runtime/Declarative Services Plugin                                                                                                                                                                                                                          
+ 25 │ Active   │  30 │ 1.1.8                 │ Apache Felix Web Console Event Plugin                                                                                                                                                                                                                                                                   
+ 26 │ Active   │  30 │ 1.0.10                │ Apache Felix Web Console Memory Usage Plugin                                                                                                                                                                                                                                                            
+ 27 │ Active   │  30 │ 1.1                   │ Java Authentication SPI for Containers                                                                                                                                                                                                                                                                  
+ 28 │ Active   │  30 │ 1.1.1                 │ geronimo-jta_1.1_spec                                                                                                                                                                                                                                                                                   
+ 29 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Bundle :: Core                                                                                                                                                                                                                                                                          
+ 30 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: ConfigAdmin :: Core                                                                                                                                                                                                                                                                     
+ 31 │ Active   │  26 │ 4.2.9                 │ Apache Karaf :: Deployer :: Features                                                                                                                                                                                                                                                                    
+ 32 │ Active   │  24 │ 4.2.9                 │ Apache Karaf :: Deployer :: Karaf Archive (.kar)                                                                                                                                                                                                                                                        
+ 33 │ Active   │  24 │ 4.2.9                 │ Apache Karaf :: Deployer :: Wrap Non OSGi Jar                                                                                                                                                                                                                                                           
+ 34 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Diagnostic :: Core                                                                                                                                                                                                                                                                      
+ 35 │ Active   │  80 │ 4.2.9                 │ Apache Karaf :: OSGi Services :: Event                                                                                                                                                                                                                                                                  
+ 36 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Features :: Command                                                                                                                                                                                                                                                                     
+ 37 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: HTTP :: Core                                                                                                                                                                                                                                                                            
+ 38 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Instance :: Core                                                                                                                                                                                                                                                                        
+ 39 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: JAAS :: Command                                                                                                                                                                                                                                                                         
+ 40 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: JAAS :: Config                                                                                                                                                                                                                                                                          
+ 41 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: JAAS :: Modules                                                                                                                                                                                                                                                                         
+ 42 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: KAR :: Core                                                                                                                                                                                                                                                                             
+ 43 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Log :: Core                                                                                                                                                                                                                                                                             
+ 44 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Management                                                                                                                                                                                                                                                                              
+ 45 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Package :: Core                                                                                                                                                                                                                                                                         
+ 46 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: SCR :: Management MBeans                                                                                                                                                                                                                                                                
+ 47 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: SCR :: Bundle State                                                                                                                                                                                                                                                                     
+ 48 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Service :: Core                                                                                                                                                                                                                                                                         
+ 49 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Shell :: Various Commands                                                                                                                                                                                                                                                               
+ 50 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Shell :: Core                                                                                                                                                                                                                                                                           
+ 51 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Shell :: SSH                                                                                                                                                                                                                                                                            
+ 52 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: System :: Core                                                                                                                                                                                                                                                                          
+ 53 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Web :: Core                                                                                                                                                                                                                                                                             
+ 54 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Web Console :: Console                                                                                                                                                                                                                                                                  
+ 55 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Web Console :: Features Plugin                                                                                                                                                                                                                                                          
+ 56 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Web Console :: Gogo Plugin
+ 57 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Web Console :: HTTP Plugin
+ 58 │ Active   │  30 │ 4.2.9                 │ Apache Karaf :: Web Console :: Instance Plugin
+ 59 │ Active   │  30 │ 0.3.11.1              │ Apache ServiceMix :: Bundles :: not-yet-commons-ssl
+ 60 │ Active   │  30 │ 1.7.0                 │ Apache Mina SSHD :: Core
+ 61 │ Active   │  80 │ 4.17.0                │ Apache XBean OSGI Bundle Utilities
+ 62 │ Active   │  80 │ 4.17.0                │ Apache XBean :: Classpath Resource Finder
+ 63 │ Active   │  30 │ 3.11.1.v20150902-1521 │ Eclipse Compiler for Java(TM)
+ 64 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Asynchronous HTTP Client
+ 65 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Continuation
+ 66 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Deployers
+ 67 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Http Utility
+ 68 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: IO Utility
+ 69 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: JAAS
+ 70 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: JMX Management
+ 71 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: JNDI Naming
+ 72 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Plus
+ 73 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Proxy
+ 74 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Rewrite Handler
+ 75 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Security
+ 76 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: JASPI Security
+ 77 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Server Core
+ 78 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Servlet Handling
+ 79 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Utility Servlets and Filters
+ 80 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Utilities
+ 81 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Utilities :: Ajax(JSON)
+ 82 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Webapp Application Support
+ 83 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: API
+ 84 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: Client
+ 85 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: Common
+ 86 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: javax.websocket :: Client Implementation
+ 87 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: javax.websocket.server :: Server Implementation
+ 88 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: Server
+ 89 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: Websocket :: Servlet Interface
+ 90 │ Active   │  30 │ 9.4.28.v20200408      │ Jetty :: XML utilities
+ 91 │ Active   │  30 │ 3.14.1                │ JLine Builtins
+ 92 │ Active   │  30 │ 3.14.1                │ JLine Reader
+ 93 │ Active   │  30 │ 3.14.1                │ JLine Terminal, Fragments: 94
+ 94 │ Resolved │  30 │ 3.14.1                │ JLine JANSI Terminal, Hosts: 93
+ 95 │ Active   │  80 │ 8.0.1                 │ org.objectweb.asm
+ 96 │ Active   │  80 │ 8.0.1                 │ org.objectweb.asm.commons
+ 97 │ Active   │  80 │ 8.0.1                 │ org.objectweb.asm.tree
+ 98 │ Active   │  30 │ 2.6.1                 │ OPS4J Pax Url - war:
+ 99 │ Active   │  10 │ 2.6.2                 │ OPS4J Pax Url - wrap:
+100 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - API
+101 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - FileInstall Deployer
+102 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Deployment Descriptor Model
+103 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Extender - WAR
+104 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Extender - Whiteboard
+105 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Jetty
+106 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Jsp Support
+107 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Runtime
+108 │ Active   │  30 │ 7.2.16                │ OPS4J Pax Web - Service SPI
+111 │ Active   │  80 │ 1.66                  │ bcpkix
+112 │ Active   │  80 │ 1.66                  │ bcprov
+113 │ Active   │  80 │ 4.0.1                 │ Kryo
+114 │ Active   │  80 │ 1.3.0                 │ MinLog
+115 │ Active   │  80 │ 1.11.7                │ ReflectASM
+116 │ Active   │  80 │ 2.11.0                │ Jackson-annotations
+117 │ Active   │  80 │ 2.11.0                │ Jackson-core
+118 │ Active   │  80 │ 2.11.0                │ jackson-databind
+119 │ Active   │  80 │ 22.0.0                │ Guava: Google Core Libraries for Java
+120 │ Active   │  80 │ 1.3.2                 │ config
+121 │ Active   │  80 │ 2.6.1                 │ Concurrent-Trees
+122 │ Active   │  80 │ 3.1.9                 │ Atomix
+123 │ Active   │  80 │ 3.1.9                 │ Atomix Cluster
+124 │ Active   │  80 │ 3.1.9                 │ Atomix Protocols :: Primary Backup Protocol
+125 │ Active   │  80 │ 3.1.9                 │ Atomix Primitive API
+126 │ Active   │  80 │ 3.1.9                 │ Atomix Protocols :: Raft
+127 │ Active   │  80 │ 3.1.9                 │ Atomix Storage
+128 │ Active   │  80 │ 3.1.9                 │ Atomix Utilities
+129 │ Active   │  80 │ 3.2.2                 │ Metrics Core
+130 │ Active   │  80 │ 3.2.2                 │ Jackson Integration for Metrics
+131 │ Active   │  80 │ 4.2.3                 │ ClassGraph
+132 │ Active   │  80 │ 4.1.35.Final          │ Netty/Buffer
+133 │ Active   │  80 │ 4.1.35.Final          │ Netty/Codec
+134 │ Active   │  80 │ 4.1.35.Final          │ Netty/Codec/HTTP
+135 │ Active   │  80 │ 4.1.35.Final          │ Netty/Codec/HTTP2
+136 │ Active   │  80 │ 4.1.35.Final          │ Netty/Codec/Socks
+137 │ Active   │  80 │ 4.1.35.Final          │ Netty/Common
+138 │ Active   │  80 │ 4.1.35.Final          │ Netty/Handler
+139 │ Active   │  80 │ 4.1.35.Final          │ Netty/Handler/Proxy
+140 │ Active   │  80 │ 4.1.35.Final          │ Netty/Resolver
+141 │ Active   │  80 │ 2.0.25.Final          │ Netty/TomcatNative [BoringSSL - Static]
+142 │ Active   │  80 │ 4.1.35.Final          │ Netty/Transport
+143 │ Active   │  80 │ 4.1.35.Final          │ Netty/Transport/Native/Epoll
+144 │ Active   │  80 │ 4.1.35.Final          │ Netty/Transport/Native/Unix/Common
+145 │ Active   │  80 │ 2.3.1                 │ jaxb-api
+146 │ Active   │  80 │ 1.0                   │ jdom.jdom
+147 │ Active   │  80 │ 2.9.3                 │ Joda-Time
+148 │ Active   │  80 │ 0.9.4                 │ minimal-json
+149 │ Active   │  80 │ 1.9.3                 │ Apache Commons BeanUtils
+150 │ Active   │  80 │ 1.10.0                │ Apache Commons Codec
+151 │ Active   │  80 │ 3.2.2                 │ Apache Commons Collections
+152 │ Active   │  80 │ 1.10.0                │ Apache Commons Configuration
+153 │ Active   │  80 │ 2.6.0                 │ Apache Commons IO
+154 │ Active   │  80 │ 1.3                   │ Commons JXPath
+155 │ Active   │  80 │ 2.6                   │ Commons Lang
+156 │ Active   │  80 │ 3.7.0                 │ Apache Commons Lang
+157 │ Active   │  80 │ 3.6.1                 │ Apache Commons Math
+158 │ Active   │  80 │ 1.6.0                 │ Commons Pool
+159 │ Active   │  80 │ 1.3.0                 │ Apache Commons Text
+160 │ Active   │  30 │ 2.9.0                 │ Apache ServiceMix :: Specs :: Activation API 1.4
+161 │ Active   │  80 │ 3.10.5.Final          │ Netty
+162 │ Active   │  80 │ 1.6.5.01              │ Hyperic Sigar OSGi bundle
+163 │ Active   │  80 │ 1.0.9                 │ mapdb
+164 │ Active   │  80 │ 5.2                   │ ASM
+165 │ Active   │  80 │ 2.6.0                 │ Objenesis
+166 │ Active   │  80 │ 1.1.0.201802012106    │ org.osgi:org.osgi.util.function
+167 │ Active   │  80 │ 1.1.1.201810101357    │ org.osgi:org.osgi.util.promise
+168 │ Active   │  80 │ 3.22.0.GA             │ Javassist
+169 │ Active   │  30 │ 1.3                   │ javax.annotation API
+170 │ Active   │  80 │ 2.0.1.Final           │ Bean Validation API
+171 │ Active   │  80 │ 2.1                   │ javax.ws.rs-api
+172 │ Active   │  80 │ 2.5.0.b42             │ HK2 API module
+173 │ Active   │  80 │ 2.5.0.b42             │ aopalliance version 1.0 repackaged as a module
+174 │ Active   │  80 │ 2.5.0.b42             │ javax.inject:1 as OSGi bundle
+175 │ Active   │  80 │ 2.5.0.b42             │ ServiceLocator Default Implementation
+176 │ Active   │  80 │ 1.0.1                 │ OSGi resource locator bundle - used by various API providers that rely on META-INF/services mechanism to locate providers.
+177 │ Active   │  80 │ 2.5.0.b42             │ HK2 Implementation Utilities
+178 │ Active   │  80 │ 2.27.0                │ jersey-container-servlet
+179 │ Active   │  80 │ 2.27.0                │ jersey-container-servlet-core
+180 │ Active   │  80 │ 2.27.0                │ jersey-core-client
+181 │ Active   │  80 │ 2.27.0                │ jersey-core-common
+182 │ Active   │  80 │ 2.27.0                │ jersey-core-server
+183 │ Active   │  80 │ 2.27.0                │ jersey-inject-hk2
+184 │ Active   │  80 │ 2.27.0                │ jersey-media-multipart
+185 │ Active   │  80 │ 1.9.6                 │ MIME streaming extension
+186 │ Active   │  80 │ 2.7.0                 │ onlab-misc
+187 │ Active   │  80 │ 2.7.0                 │ onlab-osgi
+188 │ Active   │  80 │ 2.7.0                 │ onlab-rest
+189 │ Active   │  80 │ 2.7.0                 │ onos-api
+190 │ Active   │  80 │ 2.7.0                 │ onos-cli
+191 │ Active   │  80 │ 2.7.0                 │ onos-core-common
+192 │ Waiting  │  80 │ 2.7.0                 │ onos-core-dist
+193 │ Waiting  │  80 │ 2.7.0                 │ onos-core-net
+194 │ Active   │  80 │ 2.7.0                 │ onos-core-persistence
+195 │ Waiting  │  80 │ 2.7.0                 │ onos-core-primitives
+196 │ Active   │  80 │ 2.7.0                 │ onos-core-serializers
+197 │ Active   │  80 │ 2.7.0                 │ onos-rest
+198 │ Waiting  │  80 │ 2.7.0                 │ _onos-gui2-base-jar
+199 │ Active   │  80 │ 2.7.0                 │ onos-drivers-default
+200 │ Active   │  80 │ 2.7.0                 │ onos-protocols-openflow-api
+201 │ Active   │  80 │ 3.2.1.onos            │ OpenFlowJ-Loxi
+276 │ Active   │  80 │ 2.1.3                 │ Jackson-core
+277 │ Active   │  80 │ 2.3                   │ Gson
+278 │ Active   │  80 │ 18.0.0                │ Guava: Google Core Libraries for Java
+279 │ Active   │  80 │ 19.0.0                │ Guava: Google Core Libraries for Java
+280 │ Active   │  80 │ 3.0.0.alpha-5         │ Protocol Buffer JavaNano API
+281 │ Active   │  80 │ 3.0.0.beta-2          │ Protocol Buffer Java API
+282 │ Active   │  80 │ 3.0.0.beta-2          │ Protocol Buffer Java API
+283 │ Active   │  80 │ 0.0.1                 │ com.stackleader.training.grpc.helloworld.api
+284 │ Waiting  │  80 │ 0.0.1                 │ com.stackleader.training.grpc.helloworld.client
+285 │ Active   │  80 │ 0.0.1                 │ com.stackleader.training.grpc.helloworld.server
+286 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Buffer
+287 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Codec
+288 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Codec/HTTP
+289 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Codec/HTTP2
+290 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Common
+291 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Handler
+292 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Resolver
+293 │ Active   │  80 │ 4.1.0.CR7             │ Netty/Transport
+294 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_google_auth_google-auth-library-credentials_0.3.0_google-auth-library-credentials-0.3.0.jar
+295 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_google_auth_google-auth-library-oauth2-http_0.3.0_google-auth-library-oauth2-http-0.3.0.jar
+296 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_google_code_findbugs_jsr305_3.0.0_jsr305-3.0.0.jar
+297 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_google_http-client_google-http-client-jackson2_1.19.0_google-http-client-jackson2-1.19.0.jar
+298 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_google_http-client_google-http-client_1.19.0_google-http-client-1.19.0.jar
+299 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_squareup_okhttp_okhttp_2.5.0_okhttp-2.5.0.jar
+300 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_com_squareup_okio_okio_1.6.0_okio-1.6.0.jar
+301 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_commons-codec_commons-codec_1.3_commons-codec-1.3.jar
+302 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_commons-logging_commons-logging_1.1.1_commons-logging-1.1.1.jar
+303 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-auth_0.14.0_grpc-auth-0.14.0.jar
+304 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-core_0.14.0_grpc-core-0.14.0.jar
+305 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-netty_0.14.0_grpc-netty-0.14.0.jar
+306 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-okhttp_0.14.0_grpc-okhttp-0.14.0.jar
+307 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-protobuf-lite_0.14.0_grpc-protobuf-lite-0.14.0.jar
+308 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-protobuf-nano_0.14.0_grpc-protobuf-nano-0.14.0.jar
+309 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-protobuf_0.14.0_grpc-protobuf-0.14.0.jar
+310 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_io_grpc_grpc-stub_0.14.0_grpc-stub-0.14.0.jar
+311 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_org_apache_httpcomponents_httpclient_4.0.1_httpclient-4.0.1.jar
+312 │ Active   │  80 │ 0                     │ wrap_file__home_bpilka_.m2_repository_org_apache_httpcomponents_httpcore_4.0.1_httpcore-4.0.1.jar
+

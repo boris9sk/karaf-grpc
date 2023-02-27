@@ -1,0 +1,87 @@
+ Apache Aries JMX API                                                                                                             1.1.5                 Active
+ Apache Aries JMX Core                                                                                                            1.1.8                 Active
+ Apache Aries Util                                                                                                                1.1.3                 Active
+ Apache Aries Whiteboard support for JMX DynamicMBean services                                                                    1.2.0                 Active
+ Apache Felix Configuration Admin Service                                                                                         1.9.16                Active
+ Apache Felix Coordinator Service                                                                                                 1.0.2                 Active
+ Apache Felix Declarative Services                                                                                                2.1.20                Active
+ Apache Felix File Install                                                                                                        3.6.6                 Active
+ Apache Felix Metatype Service                                                                                                    1.2.2                 Active
+ Apache Karaf :: Bundle :: Core                                                                                                   4.2.9                 Active
+ Apache Karaf :: ConfigAdmin :: Core                                                                                              4.2.9                 Active
+ Apache Karaf :: Deployer :: Features                                                                                             4.2.9                 Active
+ Apache Karaf :: Deployer :: Karaf Archive (.kar)                                                                                 4.2.9                 Active
+ Apache Karaf :: Deployer :: Wrap Non OSGi Jar                                                                                    4.2.9                 Active
+ Apache Karaf :: Diagnostic :: Core                                                                                               4.2.9                 Active
+ Apache Karaf :: Features :: Command                                                                                              4.2.9                 Active
+ Apache Karaf :: Features :: Core                                                                                                 4.2.9                 Active
+ Apache Karaf :: Features :: Extension, Hosts: 0                                                                                  4.2.9                 Resolved
+ Apache Karaf :: Instance :: Core                                                                                                 4.2.9                 Active
+ Apache Karaf :: JAAS :: Command                                                                                                  4.2.9                 Active
+ Apache Karaf :: JAAS :: Config                                                                                                   4.2.9                 Active
+ Apache Karaf :: JAAS :: Modules                                                                                                  4.2.9                 Active
+ Apache Karaf :: KAR :: Core                                                                                                      4.2.9                 Active
+ Apache Karaf :: Log :: Core                                                                                                      4.2.9                 Active
+ Apache Karaf :: Management                                                                                                       4.2.9                 Active
+ Apache Karaf :: OSGi Services :: Event                                                                                           4.2.9                 Active
+ Apache Karaf :: OSGi Services :: EventAdmin                                                                                      4.2.9                 Active
+ Apache Karaf :: Package :: Core                                                                                                  4.2.9                 Active
+ Apache Karaf :: SCR :: Bundle State                                                                                              4.2.9                 Active
+ Apache Karaf :: SCR :: Management MBeans                                                                                         4.2.9                 Active
+ Apache Karaf :: Service :: Core                                                                                                  4.2.9                 Active
+ Apache Karaf :: Shell :: Core                                                                                                    4.2.9                 Active
+ Apache Karaf :: Shell :: SSH                                                                                                     4.2.9                 Active
+ Apache Karaf :: Shell :: Various Commands                                                                                        4.2.9                 Active
+ Apache Karaf :: System :: Core                                                                                                   4.2.9                 Active
+ Apache Mina SSHD :: Core                                                                                                         1.7.0                 Active
+ Apache ServiceMix :: Bundles :: not-yet-commons-ssl                                                                              0.3.11.1              Active
+ com.stackleader.training.grpc.helloworld.api                                                                                     0.0.1                 Active
+ com.stackleader.training.grpc.helloworld.client                                                                                  0.0.1                 Active
+ com.stackleader.training.grpc.helloworld.server                                                                                  0.0.1                 Active
+ Gson                                                                                                                             2.3                   Active
+ Guava: Google Core Libraries for Java                                                                                            18.0.0                Active
+ Guava: Google Core Libraries for Java                                                                                            19.0.0                Active
+ Jackson-core                                                                                                                     2.1.3                 Active
+ jansi                                                                                                                            1.18.0                Active
+ JLine Builtins                                                                                                                   3.14.1                Active
+ JLine JANSI Terminal, Hosts: 41                                                                                                  3.14.1                Resolved
+ JLine Reader                                                                                                                     3.14.1                Active
+ JLine Terminal, Fragments: 42                                                                                                    3.14.1                Active
+ Name                                                                                                                             Version               State
+ Netty/Buffer                                                                                                                     4.1.0.CR7             Active
+ Netty/Codec                                                                                                                      4.1.0.CR7             Active
+ Netty/Codec/HTTP2                                                                                                                4.1.0.CR7             Active
+ Netty/Codec/HTTP                                                                                                                 4.1.0.CR7             Active
+ Netty/Common                                                                                                                     4.1.0.CR7             Active
+ Netty/Handler                                                                                                                    4.1.0.CR7             Active
+ Netty/Resolver                                                                                                                   4.1.0.CR7             Active
+ Netty/Transport                                                                                                                  4.1.0.CR7             Active
+ OPS4J Pax Logging - API                                                                                                          1.11.6                Active
+ OPS4J Pax Logging - Log4Jv2 implementation                                                                                       1.11.6                Active
+ OPS4J Pax Url - mvn:                                                                                                             2.6.2                 Active
+ OPS4J Pax Url - wrap:                                                                                                            2.6.2                 Active
+ org.osgi:org.osgi.util.function                                                                                                  1.0.0.201505202023    Active
+ org.osgi:org.osgi.util.promise                                                                                                   1.0.0.201505202023    Active
+ Protocol Buffer Java API                                                                                                         3.0.0.beta-2          Active
+ Protocol Buffer Java API                                                                                                         3.0.0.beta-2          Active
+ Protocol Buffer JavaNano API                                                                                                     3.0.0.alpha-5         Active
+ System Bundle, Fragments: 1                                                                                                      5.6.12                Active
+ wrap_file__opt_karaf_.m2_repository_com_google_auth_google-auth-library-credentials_0.3.0_google-auth-library-credentials-0.3.   0                     Active
+ wrap_file__opt_karaf_.m2_repository_com_google_auth_google-auth-library-oauth2-http_0.3.0_google-auth-library-oauth2-http-0.3.   0                     Active
+ wrap_file__opt_karaf_.m2_repository_com_google_code_findbugs_jsr305_3.0.0_jsr305-3.0.0.jar                                       0                     Active
+ wrap_file__opt_karaf_.m2_repository_com_google_http-client_google-http-client_1.19.0_google-http-client-1.19.0.jar               0                     Active
+ wrap_file__opt_karaf_.m2_repository_com_google_http-client_google-http-client-jackson2_1.19.0_google-http-client-jackson2-1.19   0                     Active
+ wrap_file__opt_karaf_.m2_repository_commons-codec_commons-codec_1.3_commons-codec-1.3.jar                                        0                     Active
+ wrap_file__opt_karaf_.m2_repository_commons-logging_commons-logging_1.1.1_commons-logging-1.1.1.jar                              0                     Active
+ wrap_file__opt_karaf_.m2_repository_com_squareup_okhttp_okhttp_2.5.0_okhttp-2.5.0.jar                                            0                     Active
+ wrap_file__opt_karaf_.m2_repository_com_squareup_okio_okio_1.6.0_okio-1.6.0.jar                                                  0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-auth_0.14.0_grpc-auth-0.14.0.jar                                                0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-core_0.14.0_grpc-core-0.14.0.jar                                                0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-netty_0.14.0_grpc-netty-0.14.0.jar                                              0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-okhttp_0.14.0_grpc-okhttp-0.14.0.jar                                            0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-protobuf_0.14.0_grpc-protobuf-0.14.0.jar                                        0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-protobuf-lite_0.14.0_grpc-protobuf-lite-0.14.0.jar                              0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-protobuf-nano_0.14.0_grpc-protobuf-nano-0.14.0.jar                              0                     Active
+ wrap_file__opt_karaf_.m2_repository_io_grpc_grpc-stub_0.14.0_grpc-stub-0.14.0.jar                                                0                     Active
+ wrap_file__opt_karaf_.m2_repository_org_apache_httpcomponents_httpclient_4.0.1_httpclient-4.0.1.jar                              0                     Active
+ wrap_file__opt_karaf_.m2_repository_org_apache_httpcomponents_httpcore_4.0.1_httpcore-4.0.1.jar                                  0                     Active
