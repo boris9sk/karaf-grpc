@@ -27,7 +27,7 @@ public class HelloWorldClient {
     @Activate
     public void activate() {
         channel = OkHttpChannelBuilder.forAddress(host, port)
-                .usePlaintext(true)
+                .usePlaintext()
                 .build();
         blockingStub = GreeterGrpc.newBlockingStub(channel);
         try {

@@ -23,14 +23,16 @@ public class HelloWorldServer implements GrpcServer {
 
     @Activate
     public void activate() {
+//        throw new RuntimeException("!!!!! CHECK1 ");
         start();
     }
 
     private void start() {
+//        throw new RuntimeException("!!!!! CHECK2 ");
         try {
             server = NettyServerBuilder
                     .forPort(port)
-                    .addService(greeterService)
+//                    .addService(greeterService)
                     .build()
                     .start();
             LOG.info("Server started, listening on {}", port);
@@ -46,10 +48,10 @@ public class HelloWorldServer implements GrpcServer {
         }
     }
 
-    @Reference
-    public void setGreeterService(BindableService greeterService) {
-        this.greeterService = greeterService;
-    }
+//    @Reference
+//    public void setGreeterService(BindableService greeterService) {
+//        this.greeterService = greeterService;
+//    }
 
     @Deactivate
     public void deactivate() {

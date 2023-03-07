@@ -54,6 +54,7 @@
                     <bnd>
                         <![CDATA[
                         Export-Package: com.stackleader.training.grpc.helloworld.server
+                        -noimportjava: true
                         ]]>
                     </bnd>
                 </configuration>

@@ -58,6 +58,7 @@
                     <bnd>
                         <![CDATA[
                         DynamicImport-Package: *
+                        -noimportjava: true
                         ]]>
                     </bnd>
                 </configuration>
